@@ -1,0 +1,2 @@
+启动命令：gunicorn -w 4 -b 192.168.31.55:5000 manage:app
+
